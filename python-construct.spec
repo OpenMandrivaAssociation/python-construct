@@ -1,6 +1,6 @@
 Name:		python-construct
 Version:	2.10.70
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/c/construct/construct-%{version}.tar.gz
 Summary:	A powerful declarative symmetric parser/builder for binary data
 URL:		https://pypi.org/project/construct/
